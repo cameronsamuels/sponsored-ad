@@ -1,2 +1,1 @@
-# sponsored-ad
-CSS sponsored display ad example
+**CSS Sponsored Display Ad Example**
